@@ -1,2 +1,2 @@
 # hello-world
-Your everyday hello worl repository. Nothing to see here, move along.
+Your everyday hello world repository. Nothing to see here, move along.
